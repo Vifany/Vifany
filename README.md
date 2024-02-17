@@ -3,4 +3,4 @@
 - 📚 And learning JavaScript
 - 💞️ I’m looking to collaborate on web-based social applications and also related technologies
 - 📫 How to reach me: https://t.me/vifany
-- 🥩 Remember: Never Half-Ass Two Things, Whole-Ass One Thing
+- 🥩 Never Half-Ass Two Things, Whole-Ass One Thing
